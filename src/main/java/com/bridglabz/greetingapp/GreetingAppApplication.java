@@ -11,5 +11,4 @@ public class GreetingAppApplication {
 
 		System.out.println("Hello Greeting App");
 	}
-
 }
